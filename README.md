@@ -250,7 +250,3 @@ The strongest churn drivers are:
 - Month-to-Month Contracts
 
 By improving service quality, promoting auto-pay methods, increasing adoption of value-added services, and encouraging long-term contracts, telecom companies can significantly improve customer retention and long-term profitability.
-
----
-
-## ⭐ If you found this project useful, consider giving it a Star on GitHub!
